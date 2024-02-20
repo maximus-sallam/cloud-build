@@ -1,0 +1,4 @@
+steps:
+- name: 'ubuntu23'
+  args: ['sleep', '86000']
+timeout: 86400s
